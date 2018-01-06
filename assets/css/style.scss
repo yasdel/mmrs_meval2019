@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-nav {
-    width: 30%;
-}
-
 nav a {
     text-decoration: none;
 }
@@ -24,6 +20,7 @@ nav ul {
 
 nav li {
     float: left;
+    width: 30%;
 }
 
 nav li a {
