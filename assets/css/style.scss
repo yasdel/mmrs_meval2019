@@ -15,6 +15,7 @@ nav li {
 nav a {
     text-decoration: none;
     padding: 8px;
+    color: $header-heading-color;
 }
 nav li.active a {
     color: $blockquote-text-color;
