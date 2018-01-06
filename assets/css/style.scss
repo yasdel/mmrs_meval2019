@@ -31,4 +31,5 @@ nav li.active a {
 .my-page-header {
   @extend .page-header;
   background-image: url("https://mmprj.github.io/mtrm_dataset/home_page.jpg");
+  background-size: 30% auto;
 }
