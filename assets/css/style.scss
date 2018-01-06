@@ -14,6 +14,7 @@ nav li {
 }
 nav a {
     text-decoration: none;
+    display: block;
 }
 nav li.active a {
     color: $blockquote-text-color;
