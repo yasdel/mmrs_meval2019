@@ -24,6 +24,7 @@ nav a {
     text-decoration: none;
     padding: 8px;
     color: $header-heading-color;
+    opacity: 1;
 }
 nav li.active a {
     color: $blockquote-text-color;
