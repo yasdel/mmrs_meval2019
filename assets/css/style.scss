@@ -27,22 +27,3 @@ nav a {
 nav li.active a {
     color: $blockquote-text-color;
 }
-
-my-page-header {
-  color: $header-heading-color;
-  text-align: center;
-  background-color: $header-bg-color;
-  background-image: url("_data/home_page.jpg")
-
-  @include large {
-    padding: 5rem 6rem;
-  }
-
-  @include medium {
-    padding: 3rem 4rem;
-  }
-
-  @include small {
-    padding: 2rem 1rem;
-  }
-}
