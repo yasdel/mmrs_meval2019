@@ -15,6 +15,7 @@ nav li {
 nav a {
     text-decoration: none;
     display: block;
+    padding: 8px;
 }
 nav li.active a {
     color: $blockquote-text-color;
