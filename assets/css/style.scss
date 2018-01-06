@@ -16,15 +16,13 @@ nav li {
     padding: 3px;
     margin: 10px;
     border-radius: 5px 5px;
-    color: $header-heading-color;
-    opacity: 0.5;
+    color: rgb(127,127,127);
     text-decoration:none;
 }
 nav a {
     text-decoration: none;
     padding: 8px;
     color: $header-heading-color;
-    opacity: 1;
 }
 nav li.active a {
     color: $blockquote-text-color;
