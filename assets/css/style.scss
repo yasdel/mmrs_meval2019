@@ -27,3 +27,7 @@ nav a {
 nav li.active a {
     color: $blockquote-text-color;
 }
+
+page-header {
+    background-image: linear-gradient(10deg, $header-bg-color-secondary, $header-bg-color);
+}
