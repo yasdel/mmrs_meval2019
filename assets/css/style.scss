@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 nav {
-    float: center;
+    width: 30%;
 }
 
 nav a {
@@ -23,7 +23,7 @@ nav ul {
 }
 
 nav li {
-    float: center;
+    float: left;
 }
 
 nav li a {
