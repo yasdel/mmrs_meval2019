@@ -29,6 +29,6 @@ nav li.active a {
 }
 
 .my-page-header {
-  /* @extend .page-header; */
+  @extend .page-header;
   background-image: url("_data/home_page.jpg"),;
 }
