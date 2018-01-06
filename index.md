@@ -1,14 +1,7 @@
 # Movie Trailers Rich Multimedia Dataset
 
 | [Home](index.md) | [Datasets](datasets.md) | [Benchmark](benchmark.md) | [v1.0](version.md) | [Community](community.md) |
-| ---------------- | ----------------------- | ------------------------- | ------------------ | ------------------------- |
-
-
-| Priority apples | Second priority | Third priority |
 |-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
 
 
 
