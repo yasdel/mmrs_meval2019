@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+nav {
+    float: center;
+}
 
 nav a {
     text-decoration: none;
