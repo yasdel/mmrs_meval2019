@@ -1,14 +1,6 @@
 ---
 ---
 
-.page-header {
-    background-image: linear-gradient(10deg, $header-bg-color-secondary, $header-bg-color);
-}
-page-header {
-    background-image: linear-gradient(10deg, $header-bg-color-secondary, $header-bg-color);
-}
-
-
 @import "{{ site.theme }}";
 
 nav ul {
@@ -36,9 +28,21 @@ nav li.active a {
     color: $blockquote-text-color;
 }
 
-.page-header {
-    background-image: linear-gradient(10deg, $header-bg-color-secondary, $header-bg-color);
-}
-page-header {
-    background-image: linear-gradient(10deg, $header-bg-color-secondary, $header-bg-color);
+.my-page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: linear-gradient(10deg, $header-bg-color-secondary, $header-bg-color);
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
