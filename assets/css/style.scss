@@ -30,8 +30,8 @@ nav li.active a {
 
 .my-page-header {
   @extend .page-header;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color), url("https://mmprj.github.io/mtrm_dataset/home_page.jpg");
-  background-size: 30% auto, 30% auto;
-  background-repeat: no-repeat, repeat;
-  background-position: center, center;
+  background-image: url("https://mmprj.github.io/mtrm_dataset/home_page.jpg");
+  background-size: 30% auto;
+  background-repeat: repeat;
+  background-position: center;
 }
