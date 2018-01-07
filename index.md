@@ -1,8 +1,4 @@
-# Movie Trailers Rich Multimedia Dataset
-
-| [Home](index) | [Datasets](datasets) | [Benchmark](benchmark) | [v1.0](version) |
-
-TEMPORARY SKELETON TAKEN FROM Visual Tracker Benchmark
+# Home
 
 ## Introduction
 
