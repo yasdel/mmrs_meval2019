@@ -25,7 +25,7 @@ nav a {
     color: $header-heading-color;
 }
 nav li.active a {
-    color: $blockquote-text-color;
+    opacity: 50;
 }
 
 .my-page-header {
