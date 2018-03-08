@@ -1,7 +1,7 @@
 # Datasets
 Here we will place our datasets
 
-The <b>Audio descriptors</b> folder contains two sub-folders: <a href="http://www.cp.jku.at/people/schedl/Research/Publications/pdf/seyerlehner_smc_2010.pdf">block-level features (BLF)</a> and <a href="http://www.cp.jku.at/people/schedl/Research/Publications/pdf/eghbal-zadeh_ismir_2015.pdf">i-vector features</a>. While the BLF include different fusion schemes, the i-Vector features include different parameters for the Gaussian mixture model (GMM) and total variability dimension (tvDim). The BLF folder has two sub-folders: <i>All</i> and <i>Component6</i>, and while the former contains the fusion scheme of all the 6 subcomponents of the BLF, the later contains each of the 6 components in separate CSV files.
+The <b>Audio descriptors</b> folder contains two sub-folders: <a href="http://www.cp.jku.at/people/schedl/Research/Publications/pdf/seyerlehner_smc_2010.pdf">block-level features (BLF)</a> and <a href="http://www.cp.jku.at/people/schedl/Research/Publications/pdf/eghbal-zadeh_ismir_2015.pdf">i-vector features</a>. While the BLF include different fusion schemes, the i-Vector features include different parameters for the Gaussian mixture model (GMM) and total variability dimension (tvDim). The BLF folder has two sub-folders: <i>All</i> and <i>Component6</i>; the former the former contains the fusion scheme of all the 6 subcomponents of the BLF, the later contains each of the 6 components in separate CSV files.
 
 <img src="Audio_folder.jpg" alt="MMTF-14K Audio" height="50%" width="50%">
 
