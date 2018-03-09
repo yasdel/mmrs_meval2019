@@ -7,7 +7,7 @@ The MMTF-14K dataset provides a stable and extensive source for devising and eva
 
 The MMTF-14K dataset has been created as a joint research work by <a href="http://www.ir.disco.unimib.it/yashar-deldjoo/" target="_blank"> Yashar Deldjoo </a> (Università degli Studi di Milano-Bicocca, Italy), <a href="http://www.campus.pub.ro/lab7/gconstantin/" target="_blank">Mihai Gabriel Constantin </a> and <a href="http://campus.pub.ro/lab7/bionescu/" target="_blank">Bogdan Ionescu </a>(University Politehnica of Bucharest, Romania), and <a href="http://www.cp.jku.at/people/schedl/" target="_blank"> Markus Schedl </a> (Johannes Kepler University Linz, Austria).
 
-We would like to acknowledge MovieLens here. Please consider the <a href="http://files.grouplens.org/datasets/movielens/ml-20m-README.html" target="_blank"> MovieLens-20M web page </a> for more details on the ratings and tags datasets.
+We would like to acknowledge MovieLens here. Please consider the <a href="http://files.grouplens.org/datasets/movielens/ml-20m-README.html" target="_blank"> MovieLens-20M web page</a> for more details on the ratings and tags datasets.
 
 For further inquiries you are free to contact Yashar Deldjoo through his email: <a href="mailto:yashar.deldjoo@ieee.org" target="_top"> yashar.deldjoo@ieee.org </a>.
 
