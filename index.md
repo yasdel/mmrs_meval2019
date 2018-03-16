@@ -9,5 +9,5 @@ The MMTF-14K dataset has been created as a joint research work by <a href="http:
 
 We would like to acknowledge MovieLens here. Please consider the <a href="http://files.grouplens.org/datasets/movielens/ml-20m-README.html" target="_blank"> MovieLens-20M web page</a> for more details on the ratings and tags datasets.
 
-For further inquiries you are free to contact Yashar Deldjoo through his email: <a href="mailto:yashar.deldjoo@ieee.org" target="_top"> yashar.deldjoo@ieee.org </a>.
+For further inquiries you are free to contact Yashar Deldjoo through his email: <a href="mailto:deldjooy@acm.org" target="_top"> deldjooy@acm.org </a>.
 
