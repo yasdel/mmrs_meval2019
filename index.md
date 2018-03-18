@@ -5,7 +5,8 @@ The MMTF-14K dataset provides a stable and extensive source for devising and eva
 
 
 
-The MMTF-14K dataset has been created as a joint research work by <a href="http://www.ir.disco.unimib.it/yashar-deldjoo/" target="_blank"> Yashar Deldjoo </a> (Università degli Studi di Milano-Bicocca, Italy), <a href="http://www.campus.pub.ro/lab7/gconstantin/" target="_blank">Mihai Gabriel Constantin </a> and <a href="http://campus.pub.ro/lab7/bionescu/" target="_blank">Bogdan Ionescu </a>(University Politehnica of Bucharest, Romania), and <a href="http://www.cp.jku.at/people/schedl/" target="_blank"> Markus Schedl </a> (Johannes Kepler University Linz, Austria).
+The MMTF-14K dataset has been created as a joint research work by <a href="http://www.ir.disco.unimib.it/yashar-deldjoo/" target="_blank"> Yashar Deldjoo </a> (Università degli Studi di Milano-Bicocca, Italy), <a href="http://www.campus.pub.ro/lab7/gconstantin/" target="_blank">Mihai Gabriel Constantin </a> and <a href="http://campus.pub.ro/lab7/bionescu/" target="_blank">Bogdan Ionescu </a>(University Politehnica of Bucharest, Romania) <a href="http://www.cp.jku.at/people/schedl/" target="_blank"> Markus Schedl </a> (Johannes Kepler University Linz, Austria), and <a href="https://scholar.google.it/citations?hl=en&user=dTSOPCMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> Paolo Cremonesi </a> (Politecnico di Milano, Italy).
+.
 
 We would like to acknowledge MovieLens here. Please consider the <a href="http://files.grouplens.org/datasets/movielens/ml-20m-README.html" target="_blank"> MovieLens-20M web page</a> for more details on the ratings and tags datasets.
 
