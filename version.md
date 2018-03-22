@@ -1,4 +1,6 @@
 # Download
+<p><a href="https://drive.google.com/drive/folders/1sBD8drB2H0WHl_MSsSCH-FA-bonjStr_?usp=sharing">Download the dataset</a></p>
+
 The dataset is organized in 4 folders:
 <ol>
   <li><b>Data</b></li> The Data folder contains two files that offer information regarding the dataset: "movie_description.csv" and "rating.csv". The first file gives details about the trailers in this dataset, with the first column indicating the movie id, the second indicating the full title of the movie trailer while the last one representing the preferred trailer link (YouTube identifier) where the trailers can be accessed.
@@ -7,6 +9,5 @@ The dataset is organized in 4 folders:
    <li><b>Visual descriptors</b></li>  The Visual descriptors folder contains two subfolders: "Aesthetic features" and "AlexNet features", each of them including different aggregation schemes for the two types of visual features. The Aesthetic features folder includes 4 subfolders, corresponding to the 4 aggregation schemes: "Avg" containing the average aggregation scheme, "AvgVar" with the average and variance aggregation scheme, "Med" containing the median scheme and finally "MedMad" with the median and median absolute deviation aggregation. Each of these folders contain 30 .csv files, representing the different early fusion schemes applied to these features: individual components (e.g. "AestheticFeatures - MED - Feat26Convexity", "AestheticFeatures - AVG - Feat26Edge"), early fusion based on the 3 main types (i.e. "AestheticFeatures - MEDMAD - Type3Color.csv", "AestheticFeatures - AVG - Type3Texture.csv") and finally a vector containing all the component concatenated (i.e. "AestheticFeatures - MED - All.csv"). The "AlexNet features" folder has a similar structure, containing the 4 subfolders, each of them corresponding to a different aggregation scheme: "Avg, AvgVar, Med" and "MedMad". The structure of these archives is simpler than the case for the AVF features, considering that no early fusion scheme is needed or applicable to the fc7 layer output. Therefore, only one file will be present in these folders, depending on the aggregation scheme (i.e. "AlexNetFeatures - MED - fc7").
 </ol> 
 
-<p><a href="https://drive.google.com/drive/folders/1sBD8drB2H0WHl_MSsSCH-FA-bonjStr_?usp=sharing">Download the dataset</a></p>
 
 
