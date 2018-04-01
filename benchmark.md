@@ -30,7 +30,7 @@ We present the best performing features in the table below, along with the best 
     <td class="tg-amwm">Best unimodal value</td>
     <td class="tg-baqh">0.0233</td>
     <td class="tg-baqh">0.0060</td>
-    <td class="tg-baqh">0.0060</td>
+    <td class="tg-baqh">0.0052</td>
     <td class="tg-baqh">0.0311</td>
     <td class="tg-baqh">0.0042</td>
     <td class="tg-baqh">0.0120</td>
