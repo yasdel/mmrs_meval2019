@@ -1,8 +1,8 @@
 - title: Home
   url: /index
 - title: Description
-  url: /datasets
+  url: /description
 - title: Benchmark
   url: /benchmark
 - title: Download
-  url: /version
+  url: /download
