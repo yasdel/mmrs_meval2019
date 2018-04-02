@@ -1,13 +1,10 @@
 # Benchmark
  The primary scope of this dataset is to support the development of movie recommender systems, and to the best of our knowledge, this is the first large-scale dataset in the recommender systems community that provides all types of precomputed content-based descriptors in conjunction with metadata in numerical feature format.
  
-Through our experiments we aim to provide some baseline results to further help researchers use this dataset and compare their results with other papers and experiments.  We performed extensive experiments to identify the best performing descriptor in unimodal and multimodal settings where for the latter we used the late fusion scheme based on Borda count using a proposed linear weighing scheme which showed to significantly improve the performance of the hybrid approach. 
+Through our experiments we aim to provide some baseline results to further help researchers use this dataset and compare their results with other papers and experiments.  We performed extensive experiments to identify the best performing descriptor in unimodal and multimodal settings where for the latter we used the late fusion scheme based on <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.875&rep=rep1&type=pdf
+" target="_blank">Borda count </a> using a proposed linear weighing scheme which showed to significantly improve the performance of the hybrid approach. 
 
 The competing descriptors are: BLF and i-vector features for audio, AVF and AlexNet Deep features for visual and genre label together with user-generated tags for metadata (baseline).  All the experiments were carried out on a selection of ML-20m rating dataset by random selection of 3000 users each having minimum of 50 ratings associated to the consumption profile. The results are reported based on the average performance in a  5-fold cross validation setup and computed along with three different metrics: mean reciprocal rank (MRR), mean average precision (MAP), and recall (R) at two cutoff values (@4 and @10). The best performing descriptor or combination of descriptors is shown in the following table:
-
-<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.875&rep=rep1&type=pdf
-" target="_blank">Borda count </a>
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
