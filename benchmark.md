@@ -5,6 +5,10 @@ Through our experiments we aim to provide some baseline results to further help 
 
 The competing descriptors are: BLF and i-vector features for audio, AVF and AlexNet Deep features for visual and genre label together with user-generated tags for metadata (baseline).  All the experiments were carried out on a selection of ML-20m rating dataset by random selection of 3000 users each having minimum of 50 ratings associated to the consumption profile. The results are reported based on the average performance in a  5-fold cross validation setup and computed along with three different metrics: mean reciprocal rank (MRR), mean average precision (MAP), and recall (R) at two cutoff values (@4 and @10). The best performing descriptor or combination of descriptors is shown in the following table:
 
+<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.875&rep=rep1&type=pdf
+" target="_blank">Borda count </a>
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
