@@ -1,5 +1,5 @@
 # Benchmark
- The primary scope of this dataset is to support the development of movie recommender systems, and to the best of our knowledge, this is the first large-scale dataset in the recommender systems community that provides all types of precomputed content-based descriptors in conjunction with metadata in numerical feature vectors.
+ The primary scope of this dataset is to support the development of movie recommender systems, and to the best of our knowledge, this is the first large-scale dataset in the recommender systems community that provides all types of precomputed content-based descriptors in conjunction with metadata in numerical feature format.
  
 Through our experiments we aim to provide some baseline results to further help researchers use this dataset and compare their results with other papers and experiments.
 
