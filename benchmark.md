@@ -1,14 +1,7 @@
 # Benchmark
  The primary scope of this dataset is to support the development of movie recommender systems, and to the best of our knowledge, this is the first large-scale dataset in the recommender systems community that provides all types of precomputed content-based descriptors in conjunction with metadata in numerical feature format.
  
-Through our experiments we aim to provide some baseline results to further help researchers use this dataset and compare their results with other papers and experiments.
-
-The results we will present are obtained through the random selection of 3000 users, with the single condition of each user having more than 50 ratings associated to their profile. We performed a 5 fold cross validation experiment and computed the output values for three related metrics at two cutoff values (@4 and @10):
-Mean Reciprocal Rank
-Mean Average Precision
-Recall
-
-We present the best performing features in the table below, along with the best performing multimodal late fusion scheme (developed by using Borda count):
+Through our experiments we aim to provide some baseline results to further help researchers use this dataset and compare their results with other papers and experiments.  We performed extensive experiments to identify the best performing descriptor in unimodal and multimodal settings in which we used the late fusion scheme Borda count to aggregated the ranking results of two recommenders using a proposed linear weighing scheme. The competing descriptors are: BLF and i-vector features for audio, AVF and AlexNet Deep features for visual and genre label together with user-generated tags for metadata (baseline).  All the experiments were carried out on a selection of ML-20m rating dataset by random selection of 3000 users each having minimum of 50 ratings associated to the consumption profile. The results are reported based on the average performance in a  5-fold cross validation setup and computed along with three different metrics: mean reciprocal rank (MRR), mean average precision (MAP), and recall (R) at two cutoff values (@4 and @10).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
