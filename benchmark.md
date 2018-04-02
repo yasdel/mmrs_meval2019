@@ -15,7 +15,7 @@ The competing descriptors are: BLF and i-vector features for audio, AVF and Alex
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
-  <caption> The best performing descriptor or combination of descriptors with respect to mean reciprocal rank (MRR), mean average precision (MAP), and recall (R) at two cutoff values (@4 and @10) </caption>
+  <caption> <font size="6"> Table: The best performing descriptor or combination of descriptors with respect to mean reciprocal rank (MRR), mean average precision (MAP), and recall (R) at two cutoff values (@4 and @10)</font> </caption>
   <tr>
     <th class="tg-s6z2"></th>
     <th class="tg-amwm">MRR@4</th>
