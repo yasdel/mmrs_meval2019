@@ -1,4 +1,6 @@
 # Benchmark
+ The primary scope of this dataset is to support the development of movie recommender systems, and to the best of our knowledge, this is the first large-scale dataset in the recommender systems community that provides all types of precomputed content-based descriptors in conjunction with metadata in numerical feature vectors.
+ 
 Through our experiments we aim to provide some baseline results to further help researchers use this dataset and compare their results with other papers and experiments.
 
 The results we will present are obtained through the random selection of 3000 users, with the single condition of each user having more than 50 ratings associated to their profile. We performed a 5 fold cross validation experiment and computed the output values for three related metrics at two cutoff values (@4 and @10):
