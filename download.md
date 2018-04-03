@@ -10,6 +10,7 @@ The dataset is organized in 4 folders:
    
    <li><b>Audio descriptors</b></li>  The Audio descriptors folder contains two sub-folders: Block level features and i-vector features. While the BLF data includes the raw features of the 6 subcomponents and similarities computed thereon, the i-vector features include different parameters for the Gaussian mixture model (GMM), total variability dimension (tvDim) and the folds information used for creating the feature vector. The BLF folder has two subfolders: "All" and "Component6"; the former contains the similarities computed using all 6 subcomponents, the latter contains the raw feature vectors of the subcomponents in separate CSV files. The i-vector features folder contains individual CSV files for each of the possible combinations of the three parameters (fold, gmm and tvDim). 
 
+  <img src="Audio_folder.jpg" alt="MMTF-14K Audio" height="50%" width="50%">
 
       <li><b>Visual descriptors</b></li>  The Visual descriptors folder contains two subfolders: Aesthetic features and AlexNet features, each of them including different aggregation and fusion schemes for the two types of visual features. These two features are aggregated by using four basic statistical methods, each included in a different subfolder, that compute a video-level feature vector from frame-level vectors by using: average value across all frames (denoted "Avg"), average value and variance ("AvgVar"), median values ("Med") and finally median and median average distribution ("MedMad").
 Each of the four aggregation subfolders of the Aesthetic features folder contains CSV files for three types of fusion methods: early fusion of all the components (denoted All), early fusion of components according to their type (color based components denoted Type3Color, object based components - Type3Object and texture - Type3Texture) and finally each of the 26 individual component with no early fusion scheme (example: the colorfulness component denoted Feat26Colorfulness), therefore generating a total of 30 files in each subfolder. 
@@ -17,7 +18,6 @@ Regarding the AlexNet features, In our context, we use the extracted output valu
  
 </ol>
 
-  <img src="Audio_folder.jpg" alt="MMTF-14K Audio" height="50%" width="50%">
   <img src="Visual_features.jpg" alt="MMTF-14K Visual" height="50%" width="50%"> 
 
 
