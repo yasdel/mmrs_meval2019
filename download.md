@@ -8,7 +8,7 @@ The dataset is organized in 4 folders:
    
 
    
-   <li><b>Audio descriptors</b></li>  The Audio descriptors folder contains two sub-folders: Block level features and i-vector features. While the BLF data includes the raw features of the 6 subcomponents and similarities computed thereon, the i-vector features include different parameters for the Gaussian mixture model (GMM), total variability dimension (tvDim) and the folds information used for creating the feature vector. The BLF folder has two subfolders: "All" and "Component6"; the former contains the similarities computed using all 6 subcomponents, the latter contains the raw feature vectors of the subcomponents in separate CSV files. The i-vector features folder contains individual CSV files for each of the possible combinations of the three parameters (fold, gmm and tvDim). 
+   <li><b>Audio descriptors</b></li>  The Audio descriptors folder contains two sub-folders: Block level features and i-vector features. While the BLF data includes the raw features of the 6 subcomponents and similarities computed thereon, the i-vector features include different parameters for the Gaussian mixture model (GMM), total variability dimension (tvDim) and the folds information used for creating the feature vector. The BLF folder has two subfolders: "All" and "Component6"; the former contains the similarities computed using all 6 subcomponents, the latter contains the raw feature vectors of the subcomponents in separate CSV files. The i-vector features folder contains individual CSV files for each of the possible combinations of the three parameters, fold, gmm and tvDim. 
 
   <img src="Audio_folder.jpg" alt="MMTF-14K Audio" height="50%" width="50%">
 
