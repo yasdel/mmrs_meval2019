@@ -15,7 +15,7 @@ For acknowledgments please use our brand-new paper!
   author={Deldjoo, Yashar and Constantin, Mihai Gabriel and Schedl, Markus and Ionescu, Bogdan and Cremonesi, Paolo}, 
   booktitle={Proceedings of the 9th ACM Multimedia Systems Conference}, 
   year={2018}, 
-  organization={ACM} 
+  organization={ACM}} 
   </textarea>
 
 For further inquiries you are free to contact Yashar Deldjoo through his email: <a href="mailto:deldjooy@acm.org" target="_top"> deldjooy@acm.org </a>.
