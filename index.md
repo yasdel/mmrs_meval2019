@@ -17,8 +17,8 @@ For acknowledgments please use our brand new paper!
   booktitle={Proceedings of the 9th ACM Multimedia Systems Conference}, 
   year={2018}, 
   organization={ACM} 
-  </textarea>
   </p>
+  </textarea>
 
 
 For further inquiries you are free to contact Yashar Deldjoo through his email: <a href="mailto:deldjooy@acm.org" target="_top"> deldjooy@acm.org </a>.
