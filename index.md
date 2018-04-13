@@ -10,16 +10,13 @@ We would like to acknowledge MovieLens here for providing a stable benchmark dat
 For acknowledgments please use our brand new paper!
 
 <textarea rows="6" cols="50">
-<p>
-@inproceedings{deldjooMMTF14K, <br />
+@inproceedings{deldjooMMTF14K, 
   title={MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval}, 
   author={Deldjoo, Yashar and Constantin, Mihai Gabriel and Schedl, Markus and Ionescu, Bogdan and Cremonesi, Paolo}, 
   booktitle={Proceedings of the 9th ACM Multimedia Systems Conference}, 
   year={2018}, 
   organization={ACM} 
-  </p>
   </textarea>
-
 
 For further inquiries you are free to contact Yashar Deldjoo through his email: <a href="mailto:deldjooy@acm.org" target="_top"> deldjooy@acm.org </a>.
 
