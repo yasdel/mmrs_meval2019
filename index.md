@@ -9,7 +9,7 @@ We would like to acknowledge MovieLens here for providing a stable benchmark dat
 
 For acknowledgments please use our brand-new paper!
 
-<textarea rows="11" cols="70">
+<textarea rows="9" cols="70">
 @inproceedings{deldjooMMTF14K, 
   title={MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval}, 
   author={Deldjoo, Yashar and Constantin, Mihai Gabriel and Schedl, Markus and Ionescu, Bogdan and Cremonesi, Paolo}, 
