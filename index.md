@@ -18,5 +18,5 @@ For further information, please see our brand-new paper <a href="https://drive.g
   organization={ACM}} 
   </textarea>
 
-For further inquiries you are free to contact Yashar Deldjoo through his email: <a href="mailto:deldjooy@acm.org" target="_top"> deldjooy@acm.org </a>.
+For further inquiries, feel free to contact Yashar Deldjoo through his email: <a href="mailto:deldjooy@acm.org" target="_top"> deldjooy@acm.org </a>.
 
