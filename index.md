@@ -14,18 +14,17 @@ For further information, please see our brand-new paper <a href="https://drive.g
   title={MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval}, 
   author={Deldjoo, Yashar and Constantin, Mihai Gabriel and Schedl, Markus and Ionescu, Bogdan and Cremonesi, Paolo}, 
  booktitle = {Proceedings of the 9th {ACM} Multimedia Systems Conference, MMSys
-               2018, Amsterdam, The Netherlands, June 12-15, 2018}  ,
+               2018, Amsterdam, The Netherlands, June 12-15, 2018} ,
   year={2018}, 
   pages   = {450--455},
   organization={ACM}} 
   </textarea>
   
-  
   <textarea rows="8" cols="70">
 @inproceedings{deldjooAudioVisual, 
   title={Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations}, 
   author={Deldjoo, Yashar and Constantin, Mihai Gabriel and Eghbal-zadeh, Hamid and Schedl, Markus and Ionescu, Bogdan and Cremonesi, Paolo}, 
-  booktitle={Proceedings of the 12th ACM Conference on Recommender Systems}, 
+  booktitle={Proceedings of the 12th {ACM} Conference on Recommender Systems, RecSys 2018, Vancouver, Canada, Oct 2-7 2018}, 
   year={2018}, 
   organization={ACM}} 
   </textarea>
