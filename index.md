@@ -9,7 +9,7 @@ We would like to acknowledge MovieLens here for providing a stable benchmark dat
 
 For further information, please see our paper at MMSys 2018 <a href="https://drive.google.com/file/d/1wWEDxYLQbkDAbZJTWj6AbEpjEhL_r64W/view?usp=sharing" target="_blank">here</a>. For acknowledgments please use one or both of the following works:
 
-<textarea rows="9" cols="70">
+<textarea rows="9" cols="75">
 @inproceedings{deldjooMMTF14K, 
   title={MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval}, 
   author={Deldjoo, Yashar and Constantin, Mihai Gabriel and Schedl, Markus and Ionescu, Bogdan and Cremonesi, Paolo}, 
@@ -20,7 +20,7 @@ For further information, please see our paper at MMSys 2018 <a href="https://dri
   organization={ACM}} 
   </textarea>
   
-  <textarea rows="9" cols="70">
+  <textarea rows="9" cols="75">
 @inproceedings{deldjooAudioVisual, 
   title={Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations}, 
   author={Deldjoo, Yashar and Constantin, Mihai Gabriel and Eghbal-zadeh, Hamid and Schedl, Markus and Ionescu, Bogdan and Cremonesi, Paolo}, 
