@@ -7,7 +7,7 @@ The MMTF-14K dataset has been created as a joint research work by <a href="http:
 
 We would like to acknowledge MovieLens here for providing a stable benchmark dataset of movies containing individual user ratings and metadata which is an enabler for doing research on movie recommendation. Please consider the <a href="http://files.grouplens.org/datasets/movielens/ml-20m-README.html" target="_blank"> MovieLens-20M web page</a> for more details on the ratings and tags datasets.
 
-For further information, please see our brand-new paper <a href="https://drive.google.com/file/d/1wWEDxYLQbkDAbZJTWj6AbEpjEhL_r64W/view?usp=sharing" target="_blank">here</a>. For acknowledgments please use one or both of the following works:
+For further information, please see our papers at MMSys 2018<a href="https://drive.google.com/file/d/1wWEDxYLQbkDAbZJTWj6AbEpjEhL_r64W/view?usp=sharing" target="_blank">here</a>. For acknowledgments please use one or both of the following works:
 
 <textarea rows="8" cols="70">
 @inproceedings{deldjooMMTF14K, 
