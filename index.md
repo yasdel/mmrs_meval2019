@@ -21,12 +21,15 @@ For further information, please see our paper at MMSys 2018 <a href="https://dri
   </textarea>
   
   <textarea rows="9" cols="75">
-@inproceedings{deldjooAudioVisual, 
-  title={Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations}, 
+  @INPROCEEDINGS{deldjooAudioVisual, 
+  title={{Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations}}, 
   author={Deldjoo, Yashar and Constantin, Mihai Gabriel and Eghbal-zadeh, Hamid and Schedl, Markus and Ionescu, Bogdan and Cremonesi, Paolo}, 
-  booktitle={Proceedings of the 12th {ACM} Conference on Recommender Systems, RecSys 2018, Vancouver, Canada, Oct 2-7 2018}, 
-  year={2018}, 
-  organization={ACM}} 
+  booktitle={Proceedings of the 12th {ACM} Conference on Recommender Systems (RecSys 2018)}, 
+  year={2018},
+  month={October},
+  address={Vancouver, Canada},
+  publisher={ACM}
+}
   </textarea>
 
 For further inquiries, feel free to contact Yashar Deldjoo through his email: <a href="mailto:deldjooy@acm.org" target="_top"> deldjooy@acm.org </a>.
